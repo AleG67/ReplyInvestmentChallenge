@@ -2,7 +2,7 @@
 
 In this repo you can find the code for my "toy" Machine Learning models developed in the context of the Reply Investment challenge.
 
-This project is not meant to be realistic or useful for actual trading. It was simply developed as a coding exercise to apply some of the codinf skills I was learning and tacklle with some real-world problems related to models storage, data colletion, etc....
+This project is not meant to be realistic or useful for actual trading. It was simply developed as a coding exercise to apply some of the coding skills I was learning and tackle with some problems related to models storage, data colletion, etc....
 See streamlit app for more details on the project.
 
 In the **FunctionsINVCHA.py** file you can find the functions I've written for this project.
